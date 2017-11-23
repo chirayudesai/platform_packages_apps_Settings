@@ -110,4 +110,9 @@
             android:value="com.android.settings.Settings$ManageExternalSourcesActivity" />
     </Preference>
 
+    <Preference
+        android:key="record_audio_background"
+        android:title="@string/record_audio_background"
+        android:fragment="com.android.settings.RecordAudioBackgroundActivity" />
+
 </PreferenceScreen>

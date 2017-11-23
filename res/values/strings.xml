@@ -8733,4 +8733,7 @@
 
     <string name="randomize_mac_title">Randomize MAC address</string>
     <string name="randomize_mac_summary">Assign a new random MAC address when Wi-Fi is brought up. Scanning MAC randomization is still used with this disabled.</string>
+
+    <string name="record_audio_background">Record audio in the background</string>
+    <string name="record_audio_background_empty_text">No installed apps have requested microphone access.</string>
 </resources>

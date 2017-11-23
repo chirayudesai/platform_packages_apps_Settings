@@ -634,6 +634,12 @@
         <item>get accounts</item>
         <item>run in background</item>
         <item>accessibility volume</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>record audio in background</item>
     </string-array>
 
     <!-- User display names for app ops codes -->
@@ -703,6 +709,12 @@
         <item>Get accounts</item>
         <item>Run in background</item>
         <item>Accessibility volume</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Record audio in background</item>
     </string-array>
 
     <!-- Titles for the list of long press timeout options. -->
