@@ -135,6 +135,7 @@ public class RecordAudioBackgroundActivity extends SettingsPreferenceFragment {
                     boolean switchOn = (Boolean) newValue;
                     mAppOpsManager.setMode(AppOpsManager.OP_RECORD_AUDIO_BACKGROUND, getPackageUid(pkg), pkg,
                             switchOn ? AppOpsManager.MODE_ALLOWED : AppOpsManager.MODE_IGNORED);
+                    pref.setChecked(switchOn);
                     return false;
                 }
             });
